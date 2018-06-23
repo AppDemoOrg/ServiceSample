@@ -2,7 +2,7 @@ package com.abt.service;
 
 import android.app.IntentService;
 import android.content.Intent;
-import android.support.annotation.Nullable;
+import org.jetbrains.annotations.Nullable;
 
 /**
  * @描述： @DoIntentService
